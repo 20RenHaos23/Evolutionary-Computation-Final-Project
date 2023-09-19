@@ -3,7 +3,7 @@
 
 專題題目
 ---
-使用 $\color {red} {基因演算法}$ 找出[A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior](https://ieeexplore.ieee.org/document/7128396)此篇論文所發表的 $\color {red} {影像去霧演算法}$ 的 $\color {red} {最佳參數}$
+使用 $\color {red} {基因演算法}$ 找出[A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior](https://ieeexplore.ieee.org/document/7128396)此篇論文所發表的影像去霧演算法的最佳參數
 
 [A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior](https://ieeexplore.ieee.org/document/7128396)此篇論文的去霧演算法是使用自己實作的[Python程式碼](https://github.com/20RenHaos23/Color-Attenuation-Prior)
 
